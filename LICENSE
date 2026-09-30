@@ -1,12 +1,12 @@
 browser-operator — Proprietary Licence
 
-Copyright (c) 2026 Keepstar Ventures. All rights reserved.
+Copyright (c) 2026 Keepstar Ventures, LLC. All rights reserved.
 
 1. The Software. "The Software" means browser-operator (the Software): its source code, its
    documentation, and every artefact built from it, including the extension archive, the runtime
    archive, the installer and the documents published with them.
 
-2. Ownership. Keepstar Ventures retains all right, title and interest in the Software. No right is
+2. Ownership. Keepstar Ventures, LLC ("Keepstar Ventures") retains all right, title and interest in the Software. No right is
    granted by implication, estoppel or otherwise except as stated in clause 3.
 
 3. Release artefacts. The built artefacts published in the public releases repository carry this
@@ -36,4 +36,4 @@ Copyright (c) 2026 Keepstar Ventures. All rights reserved.
 7. Termination. Any use of the Software outside these terms ends every right to use it,
    automatically and without notice.
 
-For licensing enquiries, contact Keepstar Ventures.
+For licensing enquiries, contact Keepstar Ventures, LLC via https://github.com/Keepstar-Ventures.
