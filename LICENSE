@@ -1,0 +1,39 @@
+browser-operator — Proprietary Licence
+
+Copyright (c) 2026 Keepstar Ventures. All rights reserved.
+
+1. The Software. "The Software" means browser-operator (the Software): its source code, its
+   documentation, and every artefact built from it, including the extension archive, the runtime
+   archive, the installer and the documents published with them.
+
+2. Ownership. Keepstar Ventures retains all right, title and interest in the Software. No right is
+   granted by implication, estoppel or otherwise except as stated in clause 3.
+
+3. Release artefacts. The built artefacts published in the public releases repository carry this
+   LICENSE. They are provided for use only with a valid licence key issued by Keepstar Ventures,
+   and only for as long as, and within the terms under which, that key was issued. Publication of
+   an artefact where anyone can download it is not a grant of any right to use it.
+
+4. Restrictions. Except to the extent applicable law expressly permits it despite this
+   limitation, you may not copy (beyond what installing and running a licensed artefact
+   requires), modify, adapt, translate, create derivative works of, redistribute, sublicense,
+   sell, rent, lease or otherwise make the Software available to any third party, and you may not
+   reverse engineer, decompile or disassemble it.
+
+5. This LICENSE and the licence key are different things. This LICENSE is the copyright notice
+   and the terms on which the Software may be used at all. A licence key is the credential issued
+   for, and entered into, one installation (INSTALL.md, published with every release, Step 8). A
+   key grants no right beyond this LICENSE, and this LICENSE grants no right to use a release
+   artefact without a valid key.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT
+   SHALL KEEPSTAR VENTURES BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+   OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination. Any use of the Software outside these terms ends every right to use it,
+   automatically and without notice.
+
+For licensing enquiries, contact Keepstar Ventures.
